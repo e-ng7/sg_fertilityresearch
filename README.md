@@ -1,6 +1,4 @@
-# sg_fertilityresearch
-
-Title: Is Singapore’s annual fertility rate less affected by marriages?
+# Is Singapore’s annual fertility rate less affected by marriages?
 
 Introduction
 ------------------------------------------------
